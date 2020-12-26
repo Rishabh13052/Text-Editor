@@ -8,7 +8,7 @@ it consist the shotcut key functionalities for basic functions like.
 #### Ctrl+x --> Cut etc.
 it consists five menus inside the menubar like File,edit,Action,Format,Help.
 
- 
+########## 
 Main File pressent in 
 ### TexteditorProj.java.
 Source Code present in 
