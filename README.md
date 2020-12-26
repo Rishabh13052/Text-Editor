@@ -10,16 +10,16 @@ Ctrl+x --> Cut etc.
 it consists five menus inside the menubar like File,edit,Action,Format,Help.
 
  Main File pressent in 
- ## TexteditorProj.java.
+ ### TexteditorProj.java.
  Source Code present in 
- ## editor.java file.
+ ### editor.java file.
 Screenshots are present in 
- ## Text_Editor PDF.
+ ### Text_Editor PDF.
 
-# Technology Used
+## Technology Used
 Java, AWT,Swing,Data Structure and Algorithm
 
-# Coming Soon:
+## Coming Soon:
 1. GUI will be good.
 2. new Functionalities will be added like Font size,type can be change by user manually.
 3. Simultaneously more than one tab can be opened in one window.
