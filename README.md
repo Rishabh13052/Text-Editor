@@ -3,18 +3,19 @@ A text editor is a type of computer program that edits plain text. Such programs
 This is simple text editor which has all basic functions cut,copy, paste etc.
 
 it consist the shotcut key functionalities for basic functions like.
-Ctrl+c --> Copy
-Ctrl+v --> paste
-Ctrl+x --> Cut etc.
 
+#### Ctrl+c --> Copy
+#### Ctrl+v --> paste
+#### Ctrl+x --> Cut etc.
 it consists five menus inside the menubar like File,edit,Action,Format,Help.
 
- Main File pressent in 
- ### TexteditorProj.java.
- Source Code present in 
- ### editor.java file.
+ 
+Main File pressent in 
+### TexteditorProj.java.
+Source Code present in 
+### editor.java file.
 Screenshots are present in 
- ### Text_Editor PDF.
+### Text_Editor PDF.
 
 ## Technology Used
 Java, AWT,Swing,Data Structure and Algorithm
