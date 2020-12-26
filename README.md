@@ -11,12 +11,10 @@ it consists five menus inside the menubar like File,edit,Action,Format,Help.
 
 
 Main File pressent in 
-### ```bash TexteditorProj.java.```
+### ```TexteditorProj.java.```
 Source Code present in 
-### editor.java file.
-Screenshots are present in 
-### Text_Editor PDF.
-```
+### ``` editor.java file.```
+Screenshots are present in : ### ``` Text_Editor PDF.```
 
 ## Technology Used
 Java, AWT,Swing,Data Structure and Algorithm
