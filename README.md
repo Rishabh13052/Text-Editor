@@ -14,13 +14,16 @@ Main File pressent in
 ### ```TexteditorProj.java.```
 Source Code present in 
 ### ``` editor.java file.```
-Screenshots are present in : ### ``` Text_Editor PDF.```
+Screenshots are present in : 
+### ``` Text_Editor PDF.```
 
 ## Technology Used
-Java, AWT,Swing,Data Structure and Algorithm
+```Java, AWT,Swing,Data Structure and Algorithm```
 
 ## Coming Soon:
+```
 1. GUI will be good.
 2. new Functionalities will be added like Font size,type can be change by user manually.
 3. Simultaneously more than one tab can be opened in one window.
 4. Much more..
+```
